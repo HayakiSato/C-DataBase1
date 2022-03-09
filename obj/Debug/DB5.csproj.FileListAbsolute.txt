@@ -1,0 +1,11 @@
+D:\repos\C#\DB5\bin\Debug\DB5.exe.config
+D:\repos\C#\DB5\bin\Debug\DB5.exe
+D:\repos\C#\DB5\bin\Debug\DB5.pdb
+D:\repos\C#\DB5\obj\Debug\DB5.csproj.AssemblyReference.cache
+D:\repos\C#\DB5\obj\Debug\DB5.csproj.SuggestedBindingRedirects.cache
+D:\repos\C#\DB5\obj\Debug\DB5.Form1.resources
+D:\repos\C#\DB5\obj\Debug\DB5.Properties.Resources.resources
+D:\repos\C#\DB5\obj\Debug\DB5.csproj.GenerateResource.cache
+D:\repos\C#\DB5\obj\Debug\DB5.csproj.CoreCompileInputs.cache
+D:\repos\C#\DB5\obj\Debug\DB5.exe
+D:\repos\C#\DB5\obj\Debug\DB5.pdb
